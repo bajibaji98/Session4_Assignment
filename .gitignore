@@ -1,2 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore data folder
 data/
+
+# Ignore any other files or patterns
+__pycache__/
+*.pyc
+
 .gitignore
